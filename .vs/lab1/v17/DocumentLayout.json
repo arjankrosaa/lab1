@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rentCar\\backend\\RentalApi\\RentalApi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\Controllers\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rentCar\\backend\\RentalApi\\Controllers\\CarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rentCar\\backend\\RentalApi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalApi.http",
+              "DocumentMoniker": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.http",
+              "RelativeDocumentMoniker": "rentCar\\backend\\RentalApi\\RentalApi.http",
+              "ToolTip": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.http",
+              "RelativeToolTip": "rentCar\\backend\\RentalApi\\RentalApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-14T20:50:18.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\car.cs",
+              "RelativeDocumentMoniker": "rentCar\\backend\\RentalApi\\car.cs",
+              "ToolTip": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\car.cs",
+              "RelativeToolTip": "rentCar\\backend\\RentalApi\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:49:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "rentCar\\backend\\RentalApi\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\Controllers\\CarController.cs",
+              "RelativeToolTip": "rentCar\\backend\\RentalApi\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:46:06.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

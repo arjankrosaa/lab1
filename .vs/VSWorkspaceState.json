@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\rentCar",
-    "\\rentCar\\backend\\RentalApi",
+    "\\rentCar\\backend",
+    "\\rentCar\\frontend",
     "\\rentCar\\frontend\\public"
   ],
-  "SelectedNode": "\\rentCar\\frontend",
+  "SelectedNode": "\\rentCar\\frontend\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }

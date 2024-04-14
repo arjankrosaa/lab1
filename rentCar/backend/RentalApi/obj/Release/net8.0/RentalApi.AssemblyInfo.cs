@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentalApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c03ddf2be2a1e41fe0f1b71f236753dc4ad2c9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86f6103511d59bfd484b9fc50df58a1f7d93635")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentalApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentalApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
