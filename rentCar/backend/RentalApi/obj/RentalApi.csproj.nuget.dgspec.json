@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arjan\\source\\repos\\RentalApi\\lab1\\backend\\RentalApi\\RentalApi.csproj": {}
+    "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arjan\\source\\repos\\RentalApi\\lab1\\backend\\RentalApi\\RentalApi.csproj": {
+    "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arjan\\source\\repos\\RentalApi\\lab1\\backend\\RentalApi\\RentalApi.csproj",
+        "projectUniqueName": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.csproj",
         "projectName": "RentalApi",
-        "projectPath": "C:\\Users\\arjan\\source\\repos\\RentalApi\\lab1\\backend\\RentalApi\\RentalApi.csproj",
-        "packagesPath": "C:\\Users\\arjan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arjan\\source\\repos\\RentalApi\\lab1\\backend\\RentalApi\\obj\\",
+        "projectPath": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\RentalApi.csproj",
+        "packagesPath": "C:\\Users\\xbwro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xbwro\\Documents\\GitHub\\lab1\\rentCar\\backend\\RentalApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arjan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xbwro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
